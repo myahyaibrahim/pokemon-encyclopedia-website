@@ -38,6 +38,7 @@ npm start
       </div>
 
    ![Pokemon List Page - Mobile](documentation/mobile%201.jpg | width=150)
+   <img src="documentation/mobile%201.jpg" height=150 />
       <div align="center">
            Pokemon List Page - Mobile
       </div>
