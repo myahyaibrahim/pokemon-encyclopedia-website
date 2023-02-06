@@ -30,35 +30,36 @@ npm start
 
 ## Working Results
 
-1. Pokemon List Page
-   Users can browse through catalog of Pokemon Character. To see the details of the selected pokemon, users can click "see details" button
-   ![Pokemon List Page - Desktop](documentation/desktop%201.png)
-      <div align="center">
-           Pokemon List Page - Desktop
-      </div>
+1.  Pokemon List Page
 
-   ![Pokemon List Page - Mobile](documentation/mobile%201.jpg | width=150)
-   <img src="documentation/mobile%201.jpg" height=150 />
-      <div align="center">
-           Pokemon List Page - Mobile
-      </div>
+    Users can browse through catalog of Pokemon Character. To see the details of the selected pokemon, users can click "see details" button
+    ![Pokemon List Page - Desktop](documentation/desktop%201.png)
+       <div align="center">
+            Pokemon List Page - Desktop
+       </div>
 
-2. Pokemon Detail Page
-   Users can see the detail of selected pokemon that they chose.
-   ![Pokemon Detail Page - Desktop](documentation/desktop%202.png)
-      <div align="center">
-           Pokemon Detail Page - Desktop
-      </div>
+    ![Pokemon List Page - Mobile](documentation/mobile%201.jpg)
+       <div align="center">
+            Pokemon List Page - Mobile
+       </div>
 
-   ![Pokemon Detail Page - Mobile](documentation/mobile%202.jpg | width=150)
-      <div align="center">
-           Pokemon Detail Page - Mobile
-      </div>
+2.  Pokemon Detail Page
 
-   ![Pokemon Detail Page - Mobile](documentation/mobile%203.jpg | width=150)
-      <div align="center">
-           Pokemon Detail Page - Mobile (cont.)
-      </div>
+    Users can see the detail of selected pokemon that they chose.
+    ![Pokemon Detail Page - Desktop](documentation/desktop%202.png)
+       <div align="center">
+            Pokemon Detail Page - Desktop
+       </div>
+
+    ![Pokemon Detail Page - Mobile](documentation/mobile%202.jpg | width=150)
+       <div align="center">
+            Pokemon Detail Page - Mobile
+       </div>
+
+    ![Pokemon Detail Page - Mobile](documentation/mobile%203.jpg | width=150)
+       <div align="center">
+            Pokemon Detail Page - Mobile (cont.)
+       </div>
 
 ## Author
 
