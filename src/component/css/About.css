@@ -1,0 +1,40 @@
+.container-about {
+    max-width: 1000px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.about-title {
+    margin-bottom: 10px;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #eeeeee;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.about-link{
+    text-decoration: none;
+}
+
+.about-content {
+    text-align: center;
+    font-size: large;
+}
+
+.author {
+    margin-top: 10px;
+}
+
+p {
+    color: black;
+}
+
+a {
+    color: #f5b916;
+}

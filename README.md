@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Pokemon Encyclopedia Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description
 
-## Available Scripts
+Pokemon Encyclopedia Website is a website that provides users information about plethora of Pokemon characters. This website uses [PokeAPI](https://pokeapi.co/docs/v2) to obtain all the data required to achieve its functionality. This project is done mainly to fulfill the requirement of applying an intern position as website developer at [Gravel](https://gravel.co.id/). The following are some of the functionalities that this website provide:
 
-In the project directory, you can run:
+1. View a list of pokemon characters, includes its name and image
+2. See the detail of each pokemon character
 
-### `npm start`
+This project is developed using React JS which is based on Javascript languange, and CSS to help with the design and styling of the website. React JS is one of the most popular stack in website development right now that offers easy implementation of Responsive Web Design which this website does support, in order to support all kinds of device compatibility. A couple of package manager, NPM (Node Package Manager) are also used to help building the website, which are
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. [Axios](https://www.npmjs.com/package/axios), which is used to fetch data from the API through HTTP requests.
+2. [react-router-dom](https://www.npmjs.com/package/react-router-dom), which is used to help implementing navigation on the website.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## User Guide
 
-### `npm test`
+1. Install NodeJS. In order to be able to run reactJS based website, you need NodeJS to be installed on your computer which is a Javascrip runtime environment in which Reactjs runs on.
+2. After installing NodeJS, you can then clone this repository to your computer.
+3. Install all the dependencies that are used in this project. You can do it simply by running this command
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+npm install
+```
 
-### `npm run build`
+4. After successfully installing all the dependencies required by the project, you can then run/launch the website by running this command
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Author
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Mohammad Yahya Ibrahim
