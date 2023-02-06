@@ -51,12 +51,12 @@ npm start
             Pokemon Detail Page - Desktop
        </div>
 
-    ![Pokemon Detail Page - Mobile](documentation/mobile%202.jpg | width=150)
+    ![Pokemon Detail Page - Mobile](documentation/mobile%202.jpg)
        <div align="center">
             Pokemon Detail Page - Mobile
        </div>
 
-    ![Pokemon Detail Page - Mobile](documentation/mobile%203.jpg | width=150)
+    ![Pokemon Detail Page - Mobile](documentation/mobile%203.jpg)
        <div align="center">
             Pokemon Detail Page - Mobile (cont.)
        </div>
