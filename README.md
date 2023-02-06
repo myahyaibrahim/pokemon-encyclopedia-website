@@ -28,6 +28,35 @@ npm install
 npm start
 ```
 
+## Working Results
+
+1. Pokemon List Page
+   ![Pokemon List Page - Desktop](documentation/desktop%201.png)
+   <div align="center">
+        Pokemon List Page - Desktop
+   </div>
+
+   ![Pokemon List Page - Mobile](documentation/mobile%201.jpg)
+   <div align="center">
+        Pokemon List Page - Mobile
+   </div>
+
+2. Pokemon Detail Page
+   ![Pokemon Detail Page - Desktop](documentation/desktop%202.png)
+   <div align="center">
+        Pokemon Detail Page - Desktop
+   </div>
+
+   ![Pokemon Detail Page - Mobile](documentation/mobile%202.jpg)
+   <div align="center">
+        Pokemon Detail Page - Mobile
+   </div>
+
+   ![Pokemon Detail Page - Mobile](documentation/mobile%203.jpg)
+   <div align="center">
+        Pokemon Detail Page - Mobile (cont.)
+   </div>
+
 ## Author
 
 Mohammad Yahya Ibrahim
