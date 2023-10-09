@@ -61,6 +61,9 @@ npm start
             Pokemon Detail Page - Mobile (cont.)
        </div>
 
+## Deploymeny
+https://pokemon-website-gravel.vercel.app/
+
 ## Author
 
 Mohammad Yahya Ibrahim
