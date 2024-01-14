@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Pokemon Encyclopedia Website is a website that provides users information about plethora of Pokemon characters. This website uses [PokeAPI](https://pokeapi.co/docs/v2) to obtain all the data required to achieve its functionality. This project is done mainly to fulfill the requirement of applying an intern position as website developer at [Gravel](https://gravel.co.id/). The following are some of the functionalities that this website provide:
+Pokemon Encyclopedia Website is a website that provides users information about plethora of Pokemon characters. This website uses [PokeAPI](https://pokeapi.co/docs/v2) to obtain all the data required to achieve its functionality. The following are some of the functionalities that this website provide:
 
 1. View a list of pokemon characters, includes its name and image
 2. See the detail of each pokemon character
